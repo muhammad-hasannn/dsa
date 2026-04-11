@@ -1,1 +1,3 @@
-# dsa
+# Data Structures and Algorithms (Spring 2026)
+
+will be updated when the semester ends...
