@@ -1,15 +1,13 @@
 # Data Structures and Algorithms (Spring 2026)
 
-This repository contains all the assignments and lab tasks related to my **Data Structures and Algorithm course (Spring 2026)**. It is a a complete collection of my work throughout the semester, including theory assignments, weekly labs, and project.
+This repository contains all the assignments and lab tasks related to my **Data Structures and Algorithm course (Spring 2026)**.
 
 ## Assignment 3 (Complex Computing Problem)
-This repo does not include the assignment 3 (CCP) of theory course.
-To view the project for this course, please visit:
-[Effective Garden Management](https://github.com/muhammad-hasannn/Effective-Garden-Management)
+This repository does not include the assignment 3 (CCP) of theory course. <br>
+To view, please visit: [Effective Garden Management](https://github.com/muhammad-hasannn/Effective-Garden-Management)
 
 ## Semester Project
-To view semseter project, please visit:
-[Multi-Client Chat Server](https://github.com/muhammad-hasannn/Multi-Client-Chat-Server)
+To view semseter project, please visit: [Multi-Client Chat Server](https://github.com/muhammad-hasannn/Multi-Client-Chat-Server)
 
 ## Contents
 
