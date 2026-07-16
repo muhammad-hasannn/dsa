@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (Spring 2026)
 
-This repository contains all the assignments and lab tasks related to my **Data Structures and Algorithm course**.
+This repository contains all the assignments and lab tasks related to my **Data Structures and Algorithm** course.
 
 ## Assignment 3 (Complex Computing Problem)
 This repository does not include the assignment 3 (CCP) of theory course. <br>
