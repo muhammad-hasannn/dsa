@@ -27,7 +27,7 @@ dsa_sp26
 │   ├── Lab 07 - Singly Linked List/
 │   ├── Lab 08 - Doubly Linked List/
 │   ├── Lab 09 - Recursion/
-│   ├── Lab 10 - Binary Search Tree/
+│   ├── Lab 10 - Binary Search Tree/         (incomplete)
 │   ├── Lab 11 - Heap/                       (pending)
 │   ├── Lab 12 - Hashing/
 │   └── Lab 13 - Graphs/                     (pending)
